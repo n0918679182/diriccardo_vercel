@@ -9,32 +9,6 @@
   ],
   "orderList": [
     {
-      "id": 1,
-      "serial": "DIE3KF94KE",
-      "time": 1675008000000,
-      "orders": [
-        4,
-        23,
-        44,
-        13,
-        19,
-        52,
-        48,
-        48,
-        52,
-        18,
-        27,
-        11,
-        2,
-        3,
-        4
-      ],
-      "subtotal": 0,
-      "tableId": "A01",
-      "user": 1,
-      "staffId": "a123"
-    },
-    {
       "orders": [
         2,
         2,
@@ -48,24 +22,6 @@
       "serial": "CD41Z8W9U4",
       "user": 1,
       "id": 4
-    },
-    {
-      "orders": [
-        2,
-        15,
-        15,
-        42,
-        49,
-        50,
-        54
-      ],
-      "tableId": "A02",
-      "staffId": "a123",
-      "time": 1675008000000,
-      "subtotal": 0,
-      "serial": "GHHJWBHCQ1",
-      "user": 0,
-      "id": 5
     },
     {
       "orders": [
@@ -115,26 +71,6 @@
       "serial": "5PCFFNKZDK",
       "user": 0,
       "id": 8
-    },
-    {
-      "orders": [
-        25,
-        30,
-        28,
-        39,
-        39,
-        42,
-        53,
-        49,
-        47
-      ],
-      "tableId": "C06",
-      "staffId": "a123",
-      "time": 1675008000000,
-      "subtotal": 0,
-      "serial": "FLKF2EJKTO",
-      "user": 0,
-      "id": 9
     },
     {
       "orders": [
@@ -514,26 +450,26 @@
     {
       "id": 1,
       "tableId": "A01",
-      "customerNum": 1,
-      "sitTime": "15 : 35",
-      "userNum": 1,
-      "state": 2,
-      "orderSerial": "DIE3KF94KE",
-      "staffId": "a123",
+      "customerNum": 0,
+      "sitTime": "",
+      "userNum": 0,
+      "state": 0,
+      "orderSerial": "",
+      "staffId": "",
       "colorCode": 1,
-      "using": 1
+      "using": 0
     },
     {
       "id": 2,
       "tableId": "A02",
-      "customerNum": "1",
-      "sitTime": "10 : 24",
+      "customerNum": 0,
+      "sitTime": "",
       "userNum": 0,
       "state": 0,
-      "orderSerial": "GHHJWBHCQ1",
-      "staffId": "a123",
+      "orderSerial": "",
+      "staffId": "",
       "colorCode": 2,
-      "using": 1
+      "using": 0
     },
     {
       "id": 3,
@@ -886,14 +822,14 @@
     {
       "id": 32,
       "tableId": "C06",
-      "customerNum": "3",
-      "sitTime": "10 : 33",
+      "customerNum": 0,
+      "sitTime": "",
       "userNum": "",
       "state": 0,
-      "orderSerial": "FLKF2EJKTO",
-      "staffId": "a123",
+      "orderSerial": "",
+      "staffId": "",
       "colorCode": 3,
-      "using": 1
+      "using": 0
     },
     {
       "id": 33,
@@ -1398,27 +1334,6 @@
     {
       "id": 1,
       "orders": [
-        4,
-        23,
-        44,
-        13,
-        19,
-        52,
-        48,
-        48,
-        52,
-        18,
-        27,
-        11,
-        2,
-        3,
-        4
-      ],
-      "tableId": "A01"
-    },
-    {
-      "id": 7,
-      "orders": [
         57,
         5,
         1,
@@ -1436,7 +1351,7 @@
         45,
         17
       ],
-      "id": 8
+      "id": 2
     }
   ]
 }
